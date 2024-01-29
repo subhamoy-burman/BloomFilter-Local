@@ -1,0 +1,12 @@
+C:\Users\burmas3\source\repos\BloomFilterLibrary\bin\Debug\net8.0\BloomFilterLibrary.deps.json
+C:\Users\burmas3\source\repos\BloomFilterLibrary\bin\Debug\net8.0\BloomFilterLibrary.dll
+C:\Users\burmas3\source\repos\BloomFilterLibrary\bin\Debug\net8.0\BloomFilterLibrary.pdb
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\BloomFilterLibrary.csproj.AssemblyReference.cache
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\BloomFilterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\BloomFilterLibrary.AssemblyInfoInputs.cache
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\BloomFilterLibrary.AssemblyInfo.cs
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\BloomFilterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\BloomFilterLibrary.dll
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\refint\BloomFilterLibrary.dll
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\BloomFilterLibrary.pdb
+C:\Users\burmas3\source\repos\BloomFilterLibrary\obj\Debug\net8.0\ref\BloomFilterLibrary.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PTaqInALao6cXg0qQZ0gCLC5UKkxtUeWMfq+mzI/miZgJfTZ+awzeVJYFe452V/lK4jnpHsIIndnB9Rxk7I/Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burmas3\\source\\repos\\BloomFilterLibrary\\BloomFilterLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burmas3\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
