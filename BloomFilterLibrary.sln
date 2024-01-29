@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomFilterLibrary", "BloomFilterLibrary.csproj", "{F125FFC5-ED5D-4685-94B8-5E719113CB27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloomFilter.Test", "BloomFilter.Test\BloomFilter.Test.csproj", "{2649F2F0-9236-4A6B-8408-1EA2396CDF98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F125FFC5-ED5D-4685-94B8-5E719113CB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F125FFC5-ED5D-4685-94B8-5E719113CB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F125FFC5-ED5D-4685-94B8-5E719113CB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F125FFC5-ED5D-4685-94B8-5E719113CB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2649F2F0-9236-4A6B-8408-1EA2396CDF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2649F2F0-9236-4A6B-8408-1EA2396CDF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2649F2F0-9236-4A6B-8408-1EA2396CDF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2649F2F0-9236-4A6B-8408-1EA2396CDF98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DA935B0-6E21-4862-80DD-7D0DD10115DE}
+	EndGlobalSection
+EndGlobal
